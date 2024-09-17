@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/2ed6550e-dd49-4b6b-9037-f56895fd2932/resourceGroups/SolarMiniGridPriceElasticity/providers/Microsoft.Web/sites/SolarMiniGrid",
+    "appService.deploySubpath": "."
+}
